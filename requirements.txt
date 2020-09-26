@@ -1,0 +1,6 @@
+opencv-python
+flask
+numpy
+matplotlib
+imutils
+camera
